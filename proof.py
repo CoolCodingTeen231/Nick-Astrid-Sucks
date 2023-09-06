@@ -1,3 +1,3 @@
-if nick.astrid.viewing: return you are failire for harassing me
+if nick.astrid.viewing: return you are failure for harassing me
 for _ in range(her stupidness)
-      print 'she need therapy ' + the belt for harassjng me and enslavements 
+      print 'she need therapy ' + the belt for harassing me and my fellow enslavements 
